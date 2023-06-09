@@ -9,7 +9,7 @@ MouseWatch - это Python скрипт, который отслеживает �
 
 bash
 Copy code
-git clone https://github.com/your-username/MouseWatch.git
+git clone https://github.com/intelseekergit/MouseWatch.git
 Установите необходимые библиотеки, используя pip:
 
 Copy code
@@ -41,7 +41,7 @@ Clone this repository to your computer:
 
 bash
 Copy code
-git clone https://github.com/your-username/MouseWatch.git
+git clone https://github.com/intelseekergit/MouseWatch.git
 Install the needed libraries using pip:
 
 Copy code
